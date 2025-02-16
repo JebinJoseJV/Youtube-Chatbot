@@ -1,8 +1,13 @@
 # Youtube-Chatbot
 
 
+
 ## Overview
 This Streamlit-based application enables users to interact with YouTube videos by extracting their transcripts and using Google's Gemini AI to answer questions based on the video's content.
+
+Try the live demo here: [YouTube Chatbot](https://youtube-chatbot-dyi73kuntiv3mzvnnjgxsw.streamlit.app/)
+
+
 
 ## Features
 - Extracts transcripts from YouTube videos.
@@ -30,8 +35,9 @@ streamlit run app.py
 
 ## Project Structure
 ```
-├── app.py          # Main Streamlit app
-├── README.md       # Documentation
+├── app.py             # Main Streamlit app
+├── README.md          # Documentation
+├── requirements.txt   # Requirements
 ```
 
 ## API Key Requirement
